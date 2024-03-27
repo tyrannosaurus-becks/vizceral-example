@@ -17,3 +17,6 @@ node_modules
 # Temporary Files and Backups
 *.swp
 *.*~
+
+# Ignore hard-coded data
+/src/sample_data.json
